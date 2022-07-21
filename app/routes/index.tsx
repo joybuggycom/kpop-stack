@@ -43,10 +43,10 @@ export default function Index() {
                       Sign up
                     </Link>
                     <Link
-                      to="/login"
+                      to="https://www.joybuggy.com/"
                       className="flex items-center justify-center rounded-md bg-violet-500 px-4 py-3 font-medium text-white hover:bg-violet-600  "
                     >
-                      Log In
+                      Buy Digital Games
                     </Link>
                   </div>
                 )}
